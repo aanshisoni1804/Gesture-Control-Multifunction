@@ -18,5 +18,4 @@ This project enables controlling media playback, capturing screenshots, opening 
 | Text-to-Speech (Voice) | pyttsx3           |
 | System Commands        | os                |
 
-## Installation  
-Run this command to install all dependencies:  
+ 
